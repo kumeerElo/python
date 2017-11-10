@@ -1,8 +1,7 @@
 #!/usr/bin/python
 
-print ("hello bitches\n")
-
 def main(msg):
+    #this prints out msg
     print (msg)
 
 main ("Hello world!")
